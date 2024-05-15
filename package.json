@@ -1,5 +1,5 @@
 {
-  "name": "bbnrepo/js-bbnid-sdk",
+  "name": "@0xpolygonid/js-bbnid-sdk",
   "version": "1.12.0",
   "description": "SDK to work with Polygon ID",
   "main": "dist/node/cjs/index.js",
