@@ -1,5 +1,5 @@
 {
-  "name": "@0xpolygonid/js-sdk",
+  "name": "bbnrepo/js-bbnid-sdk",
   "version": "1.12.0",
   "description": "SDK to work with Polygon ID",
   "main": "dist/node/cjs/index.js",
@@ -40,14 +40,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xPolygonID/js-sdk.git"
+    "url": "https://github.com/bbnrepo/js-bbnid-sdk.git"
   },
   "author": "",
   "license": "MIT or Apache-2.0",
   "bugs": {
-    "url": "https://github.com/0xPolygonID/js-sdk/issues"
+    "url": "https://github.com/bbnrepo/js-bbnid-sdk/issues"
   },
-  "homepage": "https://github.com/0xPolygonID/js-sdk#readme",
+  "homepage": "https://github.com/bbnrepo/js-bbnid-sdk#readme",
   "devDependencies": {
     "@gr2m/fetch-mock": "9.11.0-pull-request-644.1",
     "@iden3/eslint-config": "https://github.com/iden3/eslint-config",
